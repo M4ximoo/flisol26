@@ -29,6 +29,13 @@
       "mensaje": "El mejor conocimiento es el que se comparte",
       "rol": "developer",
       "libertad_favorita": "3"
+    },
+    {
+      "nombre": "Máximo Fernandez",
+      "ciudad": "Buenos Aires, Argentina",
+      "mensaje": "Hola, no se que estoy haciendo pero voy viendo",
+      "rol": "Contribuidor",
+      "libertad_favorita": "0"
     }
   ]
 }
