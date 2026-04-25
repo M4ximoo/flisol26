@@ -30,11 +30,12 @@
       "rol": "developer",
       "libertad_favorita": "3"
     },
-    {
-    "nombre": "Máximo Fernandez",
+      {
+      "nombre": "Marcelo Roldan",
       "ciudad": "Buenos Aires, Argentina",
-      "mensaje": "Mientras funcione todo bien",
-      "rol": "Contribuidor",
+      "mensaje": "Este es mi mensaje",
+      "rol": "developer",
       "libertad_favorita": "0"
     }
   ]
+}
